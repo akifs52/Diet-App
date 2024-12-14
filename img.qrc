@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/8664917_window_minimize_icon.png</file>
+        <file>img/8675159_ic_fluent_maximize_regular_icon.png</file>
+        <file>img/9043011_sidebar_expand_icon.png</file>
+        <file>img/9081011_layout_sidebar_right_expand_icon.png</file>
+        <file>img/squares.png</file>
+        <file>img/4115230_cancel_close_delete_icon.png</file>
+        <file>img/sidebar (1).png</file>
+        <file>img/sidebar.png</file>
+        <file>img/chat (1).png</file>
+        <file>img/chat.png</file>
+        <file>img/diet.png</file>
+        <file>img/diet-plan.png</file>
+        <file>img/info.png</file>
+        <file>img/information.png</file>
+        <file>img/icon.jpeg</file>
+        <file>img/211817_search_strong_icon.png</file>
+        <file>img/search.png</file>
+        <file>img/icons8-add-to-chat-48.png</file>
+        <file>img/icons8-add-to-chat-50.png</file>
+        <file>img/309049_add_user_human_person_plus_icon.png</file>
+        <file>img/2620528_choose_employee_job_seeker_unemployee_icon.png</file>
+        <file>img/4213431_bullets_checklist_choose_list_points_icon.png</file>
+        <file>img/8675068_fluent_people_add_regular_icon.png</file>
+        <file>img/Oxygen-Icons.org-Oxygen-Actions-list-add-user.256.png</file>
+        <file>img/2133056_document_eps_file_format_pdf_icon.png</file>
+        <file>img/2850859_document_file_page_paper_pdf_icon.png</file>
+        <file>img/2993694_brand_brands_excel_logo_logos_icon.png</file>
+        <file>img/8665399_file_excel_icon.png</file>
+        <file>img/delete-user.png</file>
+        <file>img/user.png</file>
+    </qresource>
+</RCC>
